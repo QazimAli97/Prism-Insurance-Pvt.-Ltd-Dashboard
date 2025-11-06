@@ -2,7 +2,7 @@
 
 🧩 Project Overview
 
-This project analyzes policy performance, claim trends, and customer feedback for Prism Insurance Pvt. Ltd. Using Power BI, it integrates operational and sentiment data to deliver a 360° view of business performance — from premium income and claim settlements to customer satisfaction insights.
+This project analyzes policy performance, claim trends, and customer feedback for Prism Insurance Pvt. Ltd. Using Power BI, it integrates operational and sentiment data to deliver a 360° view of business performance from premium income and claim settlements to customer satisfaction insights.
 
 🧠 Business Question
 
